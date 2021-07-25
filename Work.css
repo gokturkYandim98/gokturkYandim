@@ -514,7 +514,7 @@
 }
 
 .u-section-6 .u-container-layout-1 {
-  padding: 21px 14px;
+  padding: 21px 0;
 }
 
 .u-section-6 .u-image-1 {
@@ -522,7 +522,7 @@
   animation-duration: 1000ms;
   object-position: 0% 50%;
   width: 503px;
-  margin: 0 auto;
+  margin: 0 0 0 auto;
 }
 
 .u-section-6 .u-layout-cell-2 {
@@ -562,7 +562,8 @@
   }
 
   .u-section-6 .u-container-layout-1 {
-    padding: 9px 0;
+    padding-top: 9px;
+    padding-bottom: 9px;
   }
 
   .u-section-6 .u-image-1 {
@@ -655,7 +656,7 @@
 
   .u-section-6 .u-image-1 {
     width: 340px;
-    height: 150px;
+    height: 159px;
     margin-top: 40px;
     margin-right: -20px;
   }
