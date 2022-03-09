@@ -920,6 +920,7 @@
   min-height: 610px;
   animation-duration: 1000ms;
   background-image: url("images/quad.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-7 .u-container-layout-1 {
@@ -958,7 +959,6 @@
 
   .u-section-7 .u-image-1 {
     min-height: 478px;
-    background-position: 50% 50%;
   }
 
   .u-section-7 .u-container-layout-2 {
