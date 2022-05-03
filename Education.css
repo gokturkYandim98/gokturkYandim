@@ -1,11 +1,11 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 163px;
+  min-height: 200px;
 }
 
 .u-section-1 .u-text-1 {
   font-size: 3rem;
   font-weight: normal;
-  margin: 81px auto 30px;
+  margin: 81px auto 0;
 }.u-section-2 .u-sheet-1 {
   min-height: 400px;
 }
@@ -24,8 +24,8 @@
 }
 
 .u-section-2 .u-image-1 {
-  width: 503px;
-  height: 236px;
+  width: 400px;
+  height: 200px;
   animation-duration: 1000ms;
   margin: 0 auto;
 }
@@ -138,7 +138,7 @@
 
   .u-section-2 .u-image-1 {
     width: 320px;
-    height: 150px;
+    height: 160px;
     margin-top: 73px;
     margin-left: 0;
     margin-right: 0;
@@ -161,8 +161,8 @@
 }
 
 .u-section-3 .u-image-1 {
-  width: 503px;
-  height: 236px;
+  width: 400px;
+  height: 200px;
   animation-duration: 1000ms;
   margin: 0 auto;
 }
@@ -275,7 +275,7 @@
 
   .u-section-3 .u-image-1 {
     width: 320px;
-    height: 150px;
+    height: 160px;
     margin-top: 73px;
     margin-left: 0;
     margin-right: 0;
@@ -298,8 +298,8 @@
 }
 
 .u-section-4 .u-image-1 {
-  width: 503px;
-  height: 236px;
+  width: 400px;
+  height: 200px;
   animation-duration: 1000ms;
   margin: 0 auto;
 }
@@ -413,7 +413,7 @@
 
   .u-section-4 .u-image-1 {
     width: 320px;
-    height: 150px;
+    height: 160px;
   }
 }.u-section-5 .u-sheet-1 {
   min-height: 400px;
@@ -433,8 +433,8 @@
 }
 
 .u-section-5 .u-image-1 {
-  width: 503px;
-  height: 236px;
+  width: 400px;
+  height: 200px;
   animation-duration: 1000ms;
   margin: 0 auto;
 }
@@ -548,15 +548,15 @@
 
   .u-section-5 .u-image-1 {
     width: 320px;
-    height: 150px;
+    height: 160px;
   }
 }.u-section-6 .u-sheet-1 {
-  min-height: 446px;
+  min-height: 400px;
 }
 
 .u-section-6 .u-layout-wrap-1 {
   width: 1140px;
-  margin: 0 auto 46px -40px;
+  margin: 0 auto 0 -40px;
 }
 
 .u-section-6 .u-layout-cell-1 {
@@ -568,10 +568,10 @@
 }
 
 .u-section-6 .u-image-1 {
-  width: 328px;
-  height: 319px;
+  width: 200px;
+  height: 200px;
   animation-duration: 1000ms;
-  margin: 19px auto 0;
+  margin: 0 auto;
 }
 
 .u-section-6 .u-layout-cell-2 {
@@ -676,7 +676,7 @@
   }
 
   .u-section-6 .u-image-1 {
-    width: 320px;
-    height: 311px;
+    width: 200px;
+    height: 200px;
   }
 }
